@@ -26,10 +26,10 @@ The rover will feature:
 
 | Date | Milestone |
 |------|-----------|
-| Dec 2024 | Repository created, initial planning |
-| Jan 2025 | Mechanical design phase |
-| Feb 2025 | Hardware procurement and assembly |
-| Mar 2025 | ROS2 integration and testing |
+| Dec 2025 | Repository created, initial planning |
+| Jan 2026 | Mechanical design phase |
+| Mar/Apr 2026 | Hardware procurement and assembly |
+| May/June 2026 | ROS2 integration and testing |
 
 ## Tech Stack
 
@@ -41,7 +41,3 @@ The rover will feature:
 ## Contributing
 
 This project is in early development. Watch/star for updates.
-
----
-
-*Part of ongoing robotics research at University of Bath.*
